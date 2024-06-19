@@ -1,0 +1,12 @@
+# Ignora a pasta node_modules
+node_modules
+
+# Ignora outros arquivos e pastas comuns que não devem ser versionados
+.DS_Store
+.next
+out
+.env
+*.log
+
+# Ignora a pasta de build do Vercel (caso use Vercel para deploy)
+.vercel

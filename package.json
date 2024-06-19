@@ -1,0 +1,27 @@
+{
+  "name": "ldev",
+  "version": "1.0.0",
+  "description": "pagina web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "desenvolvimento",
+    "sitemas",
+    "freelancer",
+    "node",
+    "java",
+    "sql"
+  ],
+  "author": "Lilian",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
